@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/stcyrvandersar" target="_blank"><img src="https://img.shields.io/twitter/follow/stcyrvandersar?logo=linkedin&style=for-the-badge" alt="stcyrvandersar" /></a>
 </p>
 
-<iframe src="https://giphy.com/embed/BDQmMy3ZM8sgRNFkhe" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/muppetwiki-muppets-sesame-big-bird-BDQmMy3ZM8sgRNFkhe">via GIPHY</a></p>
+<image src="https://giphy.com/embed/BDQmMy3ZM8sgRNFkhe" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></image><p><a href="https://giphy.com/gifs/muppetwiki-muppets-sesame-big-bird-BDQmMy3ZM8sgRNFkhe">via GIPHY</a></p>
 - 🔭 I’m currently working on **my final project**
 
 - 🌱 I’m currently learning **Kotlin, React JS, Cybersecurity**
