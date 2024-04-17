@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/stcyrvandersar" target="_blank"><img src="https://img.shields.io/twitter/follow/stcyrvandersar?logo=linkedin&style=for-the-badge" alt="stcyrvandersar" /></a>
 </p>
 
-<image src="https://giphy.com/embed/BDQmMy3ZM8sgRNFkhe" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></image>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/BDQmMy3ZM8sgRNFkhe">
 
 - 🔭 I’m currently working on **my final project**
 
