@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/stcyrvandersar" target="_blank"><img src="https://img.shields.io/twitter/follow/stcyrvandersar?logo=linkedin&style=for-the-badge" alt="stcyrvandersar" /></a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/BDQmMy3ZM8sgRNFkhe">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/text-work-computer-working-penguin-gif-16760829579653810809">
 
 - 🔭 I’m currently working on **my final project**
 
