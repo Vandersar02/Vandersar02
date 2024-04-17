@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm St Cyr Lee J. Vandersar</h1>
-<p align="left">Hello there! I'm passionate about technology, both as a profession and a hobby. As a computer scientist, I immerse myself in coding and all things tech-related. Beyond the screen, I find joy in the rhythms of music, the adrenaline of basketball games, and the narratives of films and series. My journey doesn't stop here; I'm committed to continual learning, particularly in coding and the development of apps and websites. Let's connect, collaborate, and build something amazing together!</p>
+<p align="left">I'm passionate about technology, both as a profession and a hobby. As a computer scientist, I immerse myself in coding and all things tech-related. Beyond the screen, I find joy in the rhythms of music, the adrenaline of basketball games, and the narratives of films and series. My journey doesn't stop here; I'm committed to continual learning, particularly in coding and the development of apps and websites. Let's connect, collaborate, and build something amazing together!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vandersar02&label=Profile%20views&color=0e75b6&style=flat" alt="vandersar02" /> </p>
 
@@ -10,8 +10,7 @@
   <a href="https://www.linkedin.com/in/stcyrvandersar" target="_blank"><img src="https://img.shields.io/twitter/follow/stcyrvandersar?logo=linkedin&style=for-the-badge" alt="stcyrvandersar" /></a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
-
+<iframe src="https://giphy.com/embed/BDQmMy3ZM8sgRNFkhe" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/muppetwiki-muppets-sesame-big-bird-BDQmMy3ZM8sgRNFkhe">via GIPHY</a></p>
 - 🔭 I’m currently working on **my final project**
 
 - 🌱 I’m currently learning **Kotlin, React JS, Cybersecurity**
