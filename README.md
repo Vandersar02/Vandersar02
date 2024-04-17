@@ -6,8 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vandersar02" alt="vandersar02" /></a> </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/stcyr_vandersar" target="blank"><img src="https://img.shields.io/twitter/follow/stcyrvandersar?logo=instagram&style=for-the-badge" alt="stcyrvandersar" /></a>
-  <a href="https://www.linkedin.com/in/stcyrvandersar" target="blank"><img src="https://img.shields.io/twitter/follow/stcyrvandersar?logo=linkedin&style=for-the-badge" alt="stcyrvandersar" /></a>
+  <a href="https://www.instagram.com/stcyr_vandersar" target="_blank"><img src="https://img.shields.io/twitter/follow/stcyrvandersar?logo=instagram&style=for-the-badge" alt="stcyrvandersar" /></a>
+  <a href="https://www.linkedin.com/in/stcyrvandersar" target="_blank"><img src="https://img.shields.io/twitter/follow/stcyrvandersar?logo=linkedin&style=for-the-badge" alt="stcyrvandersar" /></a>
 </p>
 
 
