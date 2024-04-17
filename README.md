@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/stcyrvandersar" target="_blank"><img src="https://img.shields.io/twitter/follow/stcyrvandersar?logo=linkedin&style=for-the-badge" alt="stcyrvandersar" /></a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/text-work-computer-working-penguin-gif-16760829579653810809">
+<div class="tenor-gif-embed" data-postid="16760829579653810809" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/text-work-computer-working-penguin-gif-16760829579653810809">Text Work Sticker</a>from <a href="https://tenor.com/search/text-stickers">Text Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 - 🔭 I’m currently working on **my final project**
 
