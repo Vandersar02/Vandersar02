@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/stcyrvandersar" target="_blank"><img src="https://img.shields.io/twitter/follow/stcyrvandersar?logo=linkedin&style=for-the-badge" alt="stcyrvandersar" /></a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6f924d23-b587-49a8-aa9d-b55939eee262/d8fxvvu-419b10c7-b218-422d-861d-5f546b64702a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZmOTI0ZDIzLWI1ODctNDlhOC1hYTlkLWI1NTkzOWVlZTI2MlwvZDhmeHZ2dS00MTliMTBjNy1iMjE4LTQyMmQtODYxZC01ZjU0NmI2NDcwMmEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.eQRrpIj0wPZGhCTVrcKQSt36HR9Oa52i78SsUK8utH0">
+<img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 
 - 🔭 I’m currently working on **my final project**
