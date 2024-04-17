@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Kotlin, React JS, Cybersecurity**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://stcyrvandersar.vercel.app) working on....
+- 👨‍💻 All of my projects are available at [My Portfolio](https://stcyrvandersar.vercel.app) working on it....
 
 - 💬 Ask me about **Programing languages**
 
