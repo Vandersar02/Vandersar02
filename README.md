@@ -10,6 +10,9 @@
   <a href="https://www.linkedin.com/in/stcyrvandersar" target="_blank"><img src="https://img.shields.io/twitter/follow/stcyrvandersar?logo=linkedin&style=for-the-badge" alt="stcyrvandersar" /></a>
 </p>
 
+<--<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">-->
+
+
 - 🔭 I’m currently working on **my final project**
 
 - 🌱 I’m currently learning **Kotlin, React JS, Cybersecurity**
