@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm St Cyr Lee J. Vandersar</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jcblanc2.jcblanc2" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+St+Cyr+Lee+J.+Vandersar!;" />
+</h1>
+
 <p align="left">I'm passionate about technology, both as a profession and a hobby. As a computer scientist, I immerse myself in coding and all things tech-related. Beyond the screen, I find joy in the rhythms of music, the adrenaline of basketball games, and the narratives of films and series. My journey doesn't stop here; I'm committed to continual learning, particularly in coding and the development of apps and websites. Let's connect, collaborate, and build something amazing together!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vandersar02&label=Profile%20views&color=0e75b6&style=flat" alt="vandersar02" /> </p>
@@ -40,3 +45,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vandersar02&show_icons=true&locale=en" alt="vandersar02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vandersar02&" alt="vandersar02" /></p>
+
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;">
+</h3>
