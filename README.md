@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi+👋, I'm St Cyr Lee J. Vandersar !
+    Hi 👋, I'm St Cyr Lee J. Vandersar !
 </h1>
 
 <p align="left">I'm passionate about technology, both as a profession and a hobby. As a computer scientist, I immerse myself in coding and all things tech-related. Beyond the screen, I find joy in the rhythms of music, the adrenaline of basketball games, and the narratives of films and series. My journey doesn't stop here; I'm committed to continual learning, particularly in coding and the development of apps and websites. Let's connect, collaborate, and build something amazing together!</p>
@@ -48,5 +48,5 @@
 <hr>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting !;">
+    Thanks for visiting !
 </h3>
