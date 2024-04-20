@@ -47,6 +47,7 @@
 
 <hr>
 
-<h3 align="center">
-    Thanks for visiting !
+<h3 align="center" style="animation: bounce 1s infinite;">
+    Thanks for visiting! 😊
 </h3>
+
