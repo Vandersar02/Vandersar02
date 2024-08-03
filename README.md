@@ -49,16 +49,6 @@
   </table>
 </a>
 
-<!-- Streak stats (Light mode) -->
-<div align="center">
-  <a href="https://github.com/qwerty541#gh-light-mode-only">
-    <img
-       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=Vandersar02&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000"
-       alt="My GitHub streak stats"
-     />
-  </a>
-</div>
-
 
 <!-- Streak stats (Dark mode) -->
 <div align="center">
@@ -70,15 +60,6 @@
   </a>
 </div>
 
-<!-- WakaTime stats (Light mode) -->
-<div align="center">
-  <a href="https://github.com/qwerty541#gh-light-mode-only">
-    <img
-        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=Vandersar02&layout=compact&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29"
-        alt="My Wakatime stats"
-      />
-  </a>
-</div>
 
 <!-- WakaTime stats (Dark mode) -->
 <div align="center">
