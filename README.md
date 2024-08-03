@@ -47,13 +47,10 @@
     </tr>
   </table>
 <table>
-	<td style="border: 0;">
- <img src="https://github-readme-stats-forsakenRei.vercel.app/api?username=Vandersar02&show_icons=true&theme=tokyonight&rank_icon=percentile&show=prs_merged_percentage"           alt="My Language stats"
+	<td style="border: 0;"> <img src="https://github-readme-stats-forsakenRei.vercel.app/api?username=Vandersar02&show_icons=true&theme=tokyonight&rank_icon=percentile&show=prs_merged_percentage"           alt="My Language stats"
           width="280"/>
-
-	</td>
-		<td style="border: 0;">
-   <img src="https://github-readme-stats-forsakenRei.vercel.app/api/top-langs/?username=Vandersar02&layout=compact&theme=tokyonight&exclude_repo=&hide=Cmake,C%2B%2B,Dart,Makefile&size_weight=0.5&count_weight=0.5&card_width=350"/>
+	<td/>
+<td style="border: 0;">  <img src="https://github-readme-stats-forsakenRei.vercel.app/api/top-langs/?username=Vandersar02&layout=compact&theme=tokyonight&exclude_repo=&hide=Cmake,C%2B%2B,Dart,Makefile&size_weight=0.5&count_weight=0.5&card_width=350"/>
 	<td/>
 </table>
 </a>
