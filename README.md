@@ -32,8 +32,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vandersar02&show_icons=true&locale=en" alt="vandersar02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vandersar02&" alt="vandersar02" /></p>
-
 <hr>
 
 <h3 align="center">
