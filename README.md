@@ -39,7 +39,7 @@
       </td>
       <td style="border: 0;">
         <img
-          src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=Vandersar02&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Langs%20distribution%20in%20my%20repos#gh-dark-mode-only"
+          src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=Vandersar02&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=15&size_weight=0.5&count_weight=0.5&custom_title=Langs%20distribution%20in%20my%20repos#gh-dark-mode-only"
           alt="My Language stats"
           width="280"
         />
@@ -47,12 +47,14 @@
     </tr>
   </table>
 <table>
-	<td>
-<a href="https://github.com/Vandersar02"> <img src="https://github-readme-stats-forsakenRei.vercel.app/api?username=Vandersar02&show_icons=true&theme=tokyonight&rank_icon=percentile&show=prs_merged_percentage"/></a>
-	<br>
-<a href="https://github.com/Vandersar02"> <img src="https://github-readme-stats-forsakenRei.vercel.app/api/top-langs/?username=Vandersar02&layout=compact&theme=tokyonight&exclude_repo=&hide=Cmake,C%2B%2B,Dart,Makefile&size_weight=0.5&count_weight=0.5&card_width=350"/></a>
-    	<br>
+	<td style="border: 0;">
+ <img src="https://github-readme-stats-forsakenRei.vercel.app/api?username=Vandersar02&show_icons=true&theme=tokyonight&rank_icon=percentile&show=prs_merged_percentage"           alt="My Language stats"
+          width="280"/>
+
 	</td>
+		<td style="border: 0;">
+   <img src="https://github-readme-stats-forsakenRei.vercel.app/api/top-langs/?username=Vandersar02&layout=compact&theme=tokyonight&exclude_repo=&hide=Cmake,C%2B%2B,Dart,Makefile&size_weight=0.5&count_weight=0.5&card_width=350"/>
+	<td/>
 </table>
 </a>
 
