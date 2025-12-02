@@ -5,8 +5,8 @@
 <p align="left">I'm passionate about technology, both as a profession and a hobby. As a computer scientist, I immerse myself in coding and all things tech-related. Beyond the screen, I find joy in the rhythms of music, the adrenaline of basketball games, and the narratives of films and series. My journey doesn't stop here; I'm committed to continual learning, particularly in coding and the development of apps and websites. Let's connect, collaborate, and build something amazing together!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vandersar02&label=Profile%20views&color=0e75b6&style=flat" alt="vandersar02" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vandersar02&theme=darkhub" alt="vandersar02" /></a> </p>
+<!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vandersar02&theme=algolia" alt="vandersar02" /></a> </p>
 
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
