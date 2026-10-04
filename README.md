@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://stcyrvandersar.vercel.app) working on it....
 
-- 💬 Ask me about anything [here](https://github.com/Vandersar02/Vandersar02/issues)
+- 💬 Ask me about anything [here](https://stcyrvandersar.vercel.app/#contact)
 
 - 📫 How to reach me **[leejvan02@gmail.com](mailto:leejvan02@gmail.com)**
 
