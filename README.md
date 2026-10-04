@@ -17,7 +17,7 @@
 
 - 💬 Ask me about anything [here](https://stcyrvandersar.vercel.app/#contact)
 
-- 📫 How to reach me **[leejvan02@gmail.com](mailto:leejvan02@gmail.com)**
+- 📫 How to reach me **[leejvandersar@gmail.com](mailto:leejvandersar@gmail.com)**
 
 - ⚡ Fun fact **Not too funny** 
 
