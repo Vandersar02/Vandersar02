@@ -2,7 +2,16 @@
     Hi 👋, I'm St Cyr Lee J. Vandersar !
 </h1>
 
-<p align="left">I'm passionate about technology, both as a profession and a hobby. As a computer scientist, I immerse myself in coding and all things tech-related. Beyond the screen, I find joy in the rhythms of music, the adrenaline of basketball games, and the narratives of films and series. My journey doesn't stop here; I'm committed to continual learning, particularly in coding and the development of apps and websites. Let's connect, collaborate, and build something amazing together!</p>
+<p align="left">### 👋 About Me
+
+I'm a passionate software developer who loves turning ideas into real, useful, and scalable applications. Technology isn't just my profession — it's something I genuinely enjoy exploring and learning every day.
+
+I spend most of my time building web applications, experimenting with new technologies, solving problems, and improving my skills as a developer. I'm particularly interested in **Odoo, React, TypeScript, Node.js**, and modern web development.
+
+Outside of coding, I enjoy **music, basketball, movies, and series**. I believe that creativity isn't limited to code — inspiration can come from anywhere.
+
+I'm always looking to learn, build, and take on new challenges.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vandersar02&label=Profile%20views&color=0e75b6&style=flat" alt="vandersar02" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=vandersar02&theme=algolia" alt="vandersar02" /></a> </p>
