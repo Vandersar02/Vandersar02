@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left">
-I'm a passionate software developer who loves turning ideas into real, useful, and scalable applications. Technology isn't just my profession — it's something I genuinely enjoy exploring and learning every day.
+I'm a passionate software developer who loves turning ideas into real, useful, and scalable applications. Technology isn't just my profession, it's something I genuinely enjoy exploring and learning every day.
 
 I spend most of my time building web applications, experimenting with new technologies, solving problems, and improving my skills as a developer. I'm particularly interested in **Odoo, React, TypeScript, Node.js**, and modern web development.
 
